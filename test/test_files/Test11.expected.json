@@ -1,9 +1,9 @@
 [
-    {
-        "file": "Test11.sol",
-        "contract": "A",
-        "struct": "StructB_return_early",
-        "slotsSaved": 1,
-        "timedout": false
-    }
+  {
+    "file": "Test11.sol",
+    "contract": "A",
+    "struct": "StructB_return_early",
+    "slotsSaved": 1,
+    "timedout": false
+  }
 ]

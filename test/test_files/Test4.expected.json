@@ -1,23 +1,23 @@
 [
-    {
-        "file": "Test4.sol",
-        "contract": "A",
-        "struct": "StructA",
-        "slotsSaved": 1,
-        "timedout": false
-    },
-    {
-        "file": "Test4.sol",
-        "contract": "A",
-        "struct": "StructB",
-        "slotsSaved": 3,
-        "timedout": false
-    },
-    {
-        "file": "Test4.sol",
-        "contract": "B",
-        "struct": "StructA",
-        "slotsSaved": 1,
-        "timedout": false
-    }
+  {
+    "file": "Test4.sol",
+    "contract": "A",
+    "struct": "StructA",
+    "slotsSaved": 1,
+    "timedout": false
+  },
+  {
+    "file": "Test4.sol",
+    "contract": "A",
+    "struct": "StructB",
+    "slotsSaved": 3,
+    "timedout": false
+  },
+  {
+    "file": "Test4.sol",
+    "contract": "B",
+    "struct": "StructA",
+    "slotsSaved": 1,
+    "timedout": false
+  }
 ]

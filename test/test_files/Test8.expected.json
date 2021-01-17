@@ -1,9 +1,9 @@
 [
-    {
-        "file": "Test8.sol",
-        "contract": "A",
-        "struct": "StructB",
-        "slotsSaved": 3,
-        "timedout": false
-    }
+  {
+    "file": "Test8.sol",
+    "contract": "A",
+    "struct": "StructB",
+    "slotsSaved": 3,
+    "timedout": false
+  }
 ]
