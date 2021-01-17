@@ -19,7 +19,7 @@ const TEST_TEXT_OUTPUT_PATH = path.join(
 const cleanup = (filePath) =>
   fs.existsSync(filePath) && fs.unlinkSync(filePath);
 
-describe("sslc", () => {
+describe("solidity-store", () => {
   beforeEach(() => {
     cleanup(TEST_JSON_OUTPUT_PATH);
     cleanup(TEST_TEXT_OUTPUT_PATH);
