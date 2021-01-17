@@ -1,22 +1,28 @@
 {
-	"name": "@contractshark/solidity-storage",
-	"version": "1.0.0",
-	"description": "",
-	"bin": "index.js",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"@solidity-parser/parser": "^0.11.0",
-		"argparse": "1.0.10"
-	},
-	"devDependencies": {
-		"eslint": "^7.18.0",
-		"eslint-config-prettier": "^7.1.0",
-		"eslint-plugin-promise": "^4.2.1"
-	}
+  "name": "@contractshark/solidity-storage",
+  "version": "0.1.0",
+  "description": "optimize solidity storage and check for issues",
+  "main": "index.js",
+  "dependencies": {
+    "@solidity-parser/parser": "^0.11.0",
+    "argparse": "^1.0.10"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "mocha -t 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contractshark/solidity-storage.git"
+  },
+  "author": "see contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/contractshark/solidity-storage/issues"
+  },
+  "homepage": "https://github.com/contractshark/solidity-storage#readme"
 }
