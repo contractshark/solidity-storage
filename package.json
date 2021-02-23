@@ -4,7 +4,7 @@
   "description": "optimize solidity storage and check for issues",
   "main": "index.js",
   "dependencies": {
-    "@solidity-parser/parser": "^0.11.0",
+    "@solidity-parser/parser": "^0.11.1",
     "argparse": "^1.0.10"
   },
   "devDependencies": {
